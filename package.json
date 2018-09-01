@@ -16,7 +16,6 @@
     "yargs": "^4.7.1"
   },
   "devDependencies": {},
-  "gitHead": "32d19cdc1a6ef06f22df856500a325d2c559ce32",
   "license": "ISC",
   "main": "index.js",
   "name": "mjpeg-video-server",
